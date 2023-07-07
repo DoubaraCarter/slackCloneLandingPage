@@ -1,0 +1,57 @@
+.text-bright{
+    color: #ecb22e;
+}
+.text-dark-purple{
+    color: #541554;
+}
+.bg-banner{
+    background-color: #4a154b;
+}
+.bg-hero-purple{
+    background-color: #541554;
+}
+.btn-main-purple{
+    border: 1px solid #541554;
+    border-radius: 7px;
+    background-color: #541554;
+    color: white;
+}
+.btn-main-purple:hover{
+    background-color: #541554ee;
+    color: white;
+}
+.btn-main-purple-outline{
+    border: 1px solid #541554;
+    border-radius: 7px;
+    color: #541554;
+}
+.btn-main-purple-outline:hover{
+    border: 2px solid #3d0f3d;
+    border-radius: 7px;
+    color: #3d0f3d;
+}
+.hero-button-one{
+    width: 200px;
+    height: 50px;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #541554;
+    font-weight: bold;
+}
+.hero-button-two{
+    background-color: #4285f4;
+    width: 200px;
+    height: 50px;
+    border: 1px solid #4285f4;
+    border-radius: 5px;
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+}
+.text-link-blue{
+    color: #1264a3;
+}
+.bg-smokey{
+    background-color: #f4ece4;
+}
